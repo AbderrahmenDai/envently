@@ -4,18 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="90dd5804-4a34-4440-b4c8-60cff911c675" name="Changes" comment="setup project">
-      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/(auth)/layout.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/(auth)/sign-in/[[...sign-in]]/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/(auth)/sign-up/[[...sign-up]]/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/shared/MobileNav.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/shared/NavItems.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/constants/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/middleware.ts" afterDir="false" />
+    <list default="true" id="90dd5804-4a34-4440-b4c8-60cff911c675" name="Changes" comment="add Header">
+      <change afterPath="$PROJECT_DIR$/lib/database/index.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/layout.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/shared/Header.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/shared/Header.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/(root)/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(root)/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/shared/Footer.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/shared/Footer.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
@@ -88,7 +81,7 @@
       <option name="presentableId" value="Default" />
       <updated>1704142171194</updated>
       <workItem from="1704142172866" duration="1942000" />
-      <workItem from="1704144289077" duration="5454000" />
+      <workItem from="1704144289077" duration="7642000" />
     </task>
     <task id="LOCAL-00001" summary="setup project">
       <option name="closed" value="true" />
@@ -98,7 +91,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704146276217</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add Header">
+      <option name="closed" value="true" />
+      <created>1704150086005</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1704150086005</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -117,6 +118,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="setup project" />
-    <option name="LAST_COMMIT_MESSAGE" value="setup project" />
+    <MESSAGE value="add Header" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Header" />
   </component>
 </project>
