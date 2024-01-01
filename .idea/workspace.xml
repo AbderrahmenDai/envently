@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="90dd5804-4a34-4440-b4c8-60cff911c675" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/(root)/layout.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/shared/Footer.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/shared/Header.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/envently.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/icons/arrow.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/icons/calendar.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/icons/clock.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/icons/delete.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/icons/dollar.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/icons/edit.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/icons/file-upload.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/icons/link.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/icons/loader.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/icons/location-grey.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/icons/location.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/icons/logo-grey.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/icons/menu.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/icons/search.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/icons/spinner.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/icons/upload.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/images/dotted-pattern.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/images/hero.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/images/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/images/placeholder.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/images/test-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/images/test.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/next.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/vercel.svg" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2aMxI9IAG0FU2M03hppwY3O2cRd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/adberrahmen/IdeaProjects/envently",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "ts.external.directory.path": "C:\\Users\\adberrahmen\\IdeaProjects\\envently\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="ReactDesignerToolWindowState">
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.intellij.reactbuddy.reactComponents" value="false" />
+        <entry key="com.intellij.reactbuddy.reactInspector" value="false" />
+        <entry key="com.intellij.reactbuddy.storybook" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\adberrahmen\IdeaProjects\envently" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\adberrahmen\IdeaProjects\envently\app" />
+      <recent name="C:\Users\adberrahmen\IdeaProjects\envently\app\(root)" />
+      <recent name="C:\Users\adberrahmen\IdeaProjects\envently\components" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="90dd5804-4a34-4440-b4c8-60cff911c675" name="Changes" comment="" />
+      <created>1704142171194</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1704142171194</updated>
+      <workItem from="1704142172866" duration="1942000" />
+      <workItem from="1704144289077" duration="1854000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
