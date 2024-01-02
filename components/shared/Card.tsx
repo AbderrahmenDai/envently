@@ -5,8 +5,7 @@ import React from 'react'
 
 import { IEvent } from '@/lib/database/models/event.model'
 import { formatDateTime } from '@/lib/utils'
-import {DeleteConfirmation} from "@/components/shared/DeleteConfirmation";
-// import { DeleteConfirmation } from './DeleteConfirmation'
+import {DeleteConfirmation} from "./DeleteConfirmation";
 
 type CardProps = {
     event: IEvent,
