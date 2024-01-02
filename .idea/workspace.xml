@@ -4,14 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="90dd5804-4a34-4440-b4c8-60cff911c675" name="Changes" comment="Add Event Card">
-      <change afterPath="$PROJECT_DIR$/app/(root)/profile/page.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/shared/DeleteConfirmation.tsx" afterDir="false" />
+    <list default="true" id="90dd5804-4a34-4440-b4c8-60cff911c675" name="Changes" comment="Add Event Detail">
+      <change afterPath="$PROJECT_DIR$/app/(root)/profile/page.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/(root)/events/[id]/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(root)/events/[id]/page.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/(root)/events/[id]/update/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(root)/events/[id]/update/page.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/components/shared/Card.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/shared/Card.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/shared/EventForm.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/shared/EventForm.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +82,7 @@
       <option name="presentableId" value="Default" />
       <updated>1704142171194</updated>
       <workItem from="1704142172866" duration="1942000" />
-      <workItem from="1704144289077" duration="34773000" />
+      <workItem from="1704144289077" duration="36058000" />
     </task>
     <task id="LOCAL-00001" summary="setup project">
       <option name="closed" value="true" />
@@ -127,7 +124,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704195693713</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Add Event Detail">
+      <option name="closed" value="true" />
+      <created>1704204492141</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1704204492141</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -150,7 +155,8 @@
     <MESSAGE value="add crud part of our entity" />
     <MESSAGE value="Create new event" />
     <MESSAGE value="Add Event Card" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Event Card" />
+    <MESSAGE value="Add Event Detail" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Event Detail" />
   </component>
   <component name="WfRunsListSearchHistory"><![CDATA[{
   "history": [
