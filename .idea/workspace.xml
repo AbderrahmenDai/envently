@@ -4,18 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="90dd5804-4a34-4440-b4c8-60cff911c675" name="Changes" comment="add Header">
-      <change afterPath="$PROJECT_DIR$/app/api/webhook/clerk/route.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/actions/category.actions.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/actions/event.actions.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/actions/order.actions.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/actions/user.actions.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/database/models/category.model.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/database/models/event.model.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/database/models/order.model.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/types/index.ts" afterDir="false" />
+    <list default="true" id="90dd5804-4a34-4440-b4c8-60cff911c675" name="Changes" comment="add crud part of our entity">
+      <change afterPath="$PROJECT_DIR$/app/(root)/events/[id]/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/(root)/events/[id]/update/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/(root)/events/create/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/api/uploadthing/core.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/api/uploadthing/route.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/shared/Dropdown.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/shared/EventForm.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/shared/FileUploader.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/uploadthing.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/validator.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/utils.ts" beforeDir="false" afterPath="$PROJECT_DIR$/lib/utils.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/actions/event.actions.ts" beforeDir="false" afterPath="$PROJECT_DIR$/lib/actions/event.actions.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
@@ -32,6 +33,9 @@
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
@@ -88,7 +92,7 @@
       <option name="presentableId" value="Default" />
       <updated>1704142171194</updated>
       <workItem from="1704142172866" duration="1942000" />
-      <workItem from="1704144289077" duration="10461000" />
+      <workItem from="1704144289077" duration="26035000" />
     </task>
     <task id="LOCAL-00001" summary="setup project">
       <option name="closed" value="true" />
@@ -106,7 +110,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704150086005</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add crud part of our entity">
+      <option name="closed" value="true" />
+      <created>1704155117431</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1704155117432</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -126,7 +138,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="setup project" />
     <MESSAGE value="add Header" />
-    <option name="LAST_COMMIT_MESSAGE" value="add Header" />
+    <MESSAGE value="add crud part of our entity" />
+    <option name="LAST_COMMIT_MESSAGE" value="add crud part of our entity" />
   </component>
   <component name="WfRunsListSearchHistory"><![CDATA[{
   "history": [
