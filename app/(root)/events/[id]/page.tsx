@@ -2,8 +2,9 @@ import Image from 'next/image';
 
 import { getEventById, getRelatedEventsByCategory } from '@/lib/actions/event.actions'
 import { formatDateTime } from '@/lib/utils';
-import { SearchParamProps } from '@/types'
-// import CheckoutButton from '@/components/shared/CheckoutButton';
+import { SearchParamProps } from '@/types';
+
+import CheckoutButton from '@/components/shared/CheckoutButton';
 import Collection from "@/components/shared/Collection";
 
 const EventDetails = async ({ params: { id }, searchParams }: SearchParamProps) => {
@@ -48,7 +49,7 @@ const EventDetails = async ({ params: { id }, searchParams }: SearchParamProps) 
                             </div>
                         </div>
 
-                        {/*<CheckoutButton event={event} />*/}
+                        <CheckoutButton event={event} />
 
                         <div className="flex flex-col gap-5">
                             <div className='flex gap-2 md:gap-3'>
