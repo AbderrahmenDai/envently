@@ -152,11 +152,11 @@ export async function getEventsByUser({ userId, limit = 6, page }: GetEventsByUs
 
 // GET RELATED EVENTS: EVENTS WITH SAME CATEGORY
 export async function getRelatedEventsByCategory({
-                                                     categoryId,
-                                                     eventId,
-                                                     limit = 3,
-                                                     page = 1,
-                                                 }: GetRelatedEventsByCategoryParams) {
+  categoryId,
+  eventId,
+  limit = 3,
+  page = 1,
+}: GetRelatedEventsByCategoryParams) {
     try {
         await connectToDatabase()
 

@@ -4,21 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="90dd5804-4a34-4440-b4c8-60cff911c675" name="Changes" comment="add crud part of our entity">
+    <list default="true" id="90dd5804-4a34-4440-b4c8-60cff911c675" name="Changes" comment="Create new event">
       <change afterPath="$PROJECT_DIR$/app/(root)/events/[id]/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/(root)/events/[id]/update/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/(root)/events/create/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/api/uploadthing/core.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/api/uploadthing/route.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/shared/Dropdown.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/shared/EventForm.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/shared/FileUploader.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/uploadthing.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/validator.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/shared/Card.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/shared/Collection.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/shared/Pagination.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/(root)/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(root)/page.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/actions/event.actions.ts" beforeDir="false" afterPath="$PROJECT_DIR$/lib/actions/event.actions.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/next.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/next.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,7 +86,7 @@
       <option name="presentableId" value="Default" />
       <updated>1704142171194</updated>
       <workItem from="1704142172866" duration="1942000" />
-      <workItem from="1704144289077" duration="26035000" />
+      <workItem from="1704144289077" duration="29329000" />
     </task>
     <task id="LOCAL-00001" summary="setup project">
       <option name="closed" value="true" />
@@ -118,7 +112,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704155117432</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Create new event">
+      <option name="closed" value="true" />
+      <created>1704191494409</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1704191494409</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -139,7 +141,8 @@
     <MESSAGE value="setup project" />
     <MESSAGE value="add Header" />
     <MESSAGE value="add crud part of our entity" />
-    <option name="LAST_COMMIT_MESSAGE" value="add crud part of our entity" />
+    <MESSAGE value="Create new event" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create new event" />
   </component>
   <component name="WfRunsListSearchHistory"><![CDATA[{
   "history": [
